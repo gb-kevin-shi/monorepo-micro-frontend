@@ -1,0 +1,3 @@
+[submodule "apps/geniesmart-module"]
+	path = apps/geniesmart-module
+	url = git@github.com:gb-kevin-shi/geniesmart-module.git
